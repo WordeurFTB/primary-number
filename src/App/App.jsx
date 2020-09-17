@@ -5,7 +5,6 @@ import Footer from './Footer/Footer';
 import Main from './Main/Main';
 
 function App() {
-  const a;
   return (
     <div className="App">
       <Header />
@@ -16,4 +15,3 @@ function App() {
 }
 
 export default App;
-/* ALED */
